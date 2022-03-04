@@ -1,0 +1,14 @@
+body {
+  background-color: skyblue;
+}
+
+h1 {
+  background-color: rgb(74, 153, 118);
+  color: hsl(153°, 35%, 45%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #008080;
+}
